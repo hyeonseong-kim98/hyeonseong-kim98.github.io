@@ -33,6 +33,6 @@ I'm a Master's student in Artificial Intelligence at Korea University supervised
 
 My research interests lie at the intersection of `physical human-robot interaction` and `Embodied AI`. I'm especially passionate about creating robots that people enjoy being around — not just robots that are functionally capable, but ones that bring `joy and engagement to human interaction`.
 
-I've worked with various robotic platforms including [UR5e](https://www.universal-robots.com/products/ur5-robot/), [Stretch 3](https://hello-robot.com/product), and [Ambidex](https://www.naverlabs.com/en/), and I truly enjoy building robotic systems and designing engaging demos. My goal is to create robots that feel like companions, not just tools.
+I've worked with various robotic platforms including [UR5e](https://www.universal-robots.com/products/ur5-robot/), [Stretch 3](https://hello-robot.com/product), and [Ambidex](https://www.naverlabs.com/en/ambidex), and I truly enjoy building robotic systems and designing engaging demos. My goal is to create robots that feel like companions, not just tools.
 
 Let’s make robots more human-friendly—and more fun!
