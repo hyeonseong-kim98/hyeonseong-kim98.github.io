@@ -29,7 +29,7 @@ latest_posts:
 
 👋 Hi there!
 
-I'm a Master's student in Artificial Intelligence at Korea University supervised by Prof. [Sungjoon Choi](https://sites.google.com/view/sungjoon-choi/home). I also spent four months as a Visiting Researcher at Queen's University, Canada, working under Prof. [Matthew Pan](https://mithrilab.com/).
+I'm a Master's student in Artificial Intelligence at Korea University supervised by Prof. [Sungjoon Choi](https://sites.google.com/view/sungjoon-choi/home). I also spent four months as a visiting researcher at Queen's University, Canada, working under Prof. [Matthew Pan](https://mithrilab.com/).
 
 My research interests lie at the intersection of `physical human-robot interaction` and `Embodied AI`. I'm especially passionate about creating robots that people enjoy being around — not just robots that are functionally capable, but ones that bring `joy and engagement to human interaction`.
 
