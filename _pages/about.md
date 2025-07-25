@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 👋 Hi there!
+subtitle: 
 
 profile:
   align: right
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+👋 Hi there!
 
 I'm a Master's student in Artificial Intelligence at Korea University supervised by Prof. [Sungjoon Choi](https://sites.google.com/view/sungjoon-choi/home). I also spent four months as a Visiting Researcher at Queen's University, Canada, working under Prof. [Matthew Pan](https://mithrilab.com/).
 
