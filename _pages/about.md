@@ -29,10 +29,10 @@ latest_posts:
 
 👋 Hi there!
 
-I'm a Master's student in Artificial Intelligence at Korea University supervised by Prof. [Sungjoon Choi](https://sites.google.com/view/sungjoon-choi/home). I also spent four months as a visiting researcher at Queen's University, Canada, working under Prof. [Matthew Pan](https://mithrilab.com/).
+I'm a Research Scientist at the Physical Intelligence Lab, [LG AI Research](https://www.lgresearch.ai/). I received my Master's in Artificial Intelligence from Korea University, where I was advised by Prof. [Sungjoon Choi](https://sites.google.com/view/sungjoon-choi/home). I also spent four months as a visiting researcher at Queen's University, Canada, working with Prof. [Matthew Pan](https://mithrilab.com/).
 
 My research interests lie at the intersection of `physical human-robot interaction` and `Embodied AI`. I'm especially passionate about creating robots that people enjoy being around — not just robots that are functionally capable, but ones that bring `joy and engagement to human interaction`.
 
 I've worked with various robotic platforms including [UR5e](https://www.universal-robots.com/products/ur5-robot/), [Stretch 3](https://hello-robot.com/product), and [Ambidex](https://www.naverlabs.com/en/ambidex), and I truly enjoy building robotic systems and designing engaging demos. My goal is to create robots that feel like companions, not just tools.
 
-Let’s make robots more human-friendly—and more fun!
+Let's make robots more human-friendly — and more fun!
